@@ -1,0 +1,12 @@
+.large-hero {
+    position: relative;
+}
+
+.large-hero__text-content {
+    position: absolute;
+    top: 50%; /* Centers the text vertically but if off center, below code helps push it up */
+    transform: translateY(-50%); /* Takes 50% of it's current hight and moves it up */
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
