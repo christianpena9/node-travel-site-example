@@ -40,4 +40,8 @@
     &--b-margin-large {
         margin-bottom: 1.5em;
     }
+
+    &--headline--no-t-margin {
+        margin-top: 0;
+    }
 }

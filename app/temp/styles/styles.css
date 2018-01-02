@@ -652,6 +652,10 @@ img {
         margin-bottom: 1.5em;
     }
 
+.headline--headline--no-t-margin {
+        margin-top: 0;
+    }
+
 .row::after {
         content: "";
         clear: both;
